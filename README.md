@@ -1,4 +1,4 @@
-Project Description
+PROJECT DESCRIPTION
 
 Hypothesis: I would work for a digital marketing agency, approached by a large online furniture retailer. I was tasked with creating a prototype set of keywords for a search campaign for their sofa section. With my Python skills, I will create these keywords efficiently.
 
